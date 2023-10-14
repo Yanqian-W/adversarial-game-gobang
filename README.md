@@ -1,4 +1,4 @@
-# Search techniques for Adversrial Game Gobang
+# Search techniques for Adversarial Game Gobang
 
 - Develop rules for adversarial games
 - Use adversrial search algorithms to solve the gobang game problem
