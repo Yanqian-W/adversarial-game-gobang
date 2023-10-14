@@ -1,7 +1,7 @@
 # Search techniques for Adversarial Game Gobang
 
 - Develop rules for adversarial games
-- Use adversrial search algorithms to solve the gobang game problem
+- Use adversarial search algorithms to solve the gobang game problem
   - `minimax algorithm`
   - `alpha-beta prunning`
   - Use `heuristics` to improve the efficiency
